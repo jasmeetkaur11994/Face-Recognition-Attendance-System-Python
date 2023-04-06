@@ -15,7 +15,7 @@ The program follows the following steps to automate attendance taking:
 5. Generate attendance reports: The program generates attendance reports that can be easily accessed and shared. The reports provide an overview of the attendance data, such as the number of individuals present, absent, or late.
 
 #### Requirements
-1.Python 3.6 or higher <br>
+1. Python 3.6 or higher <br>
 2. OpenCV <br>
 3. TensorFlow <br>
 4. Keras <br>
